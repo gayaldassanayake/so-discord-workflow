@@ -1,0 +1,10 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.1"
+  export = ["stackoverflow_to_ballerina_chat"]
+  name = "stackoverflow_to_ballerina_chat"
+  org = "ims"
+  version= "1.0.0"
+
